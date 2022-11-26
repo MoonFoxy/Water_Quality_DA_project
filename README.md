@@ -4,6 +4,6 @@
 
 Автор: **Балакирев Илья**
 
-Проверяющий: **?**
+Проверяющий: **Джусупов Адиль**
 
 Ссылка на датасет: [Water_Quality_DA_project](https://github.com/MoonFoxy/Water_Quality_DA_project)
